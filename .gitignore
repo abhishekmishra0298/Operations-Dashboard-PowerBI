@@ -1,0 +1,60 @@
+# -----------------------------
+# Power BI Files
+# -----------------------------
+*.pbix
+*.pbit
+*.pbids
+
+# -----------------------------
+# Data Files (Sensitive / Large)
+# -----------------------------
+*.xlsx
+*.xls
+*.csv
+*.txt
+
+# -----------------------------
+# Logs & Temp Files
+# -----------------------------
+*.log
+*.tmp
+*.bak
+~*
+
+# -----------------------------
+# OS Generated Files
+# -----------------------------
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# -----------------------------
+# IDE / Editor Settings
+# -----------------------------
+.vscode/
+.idea/
+
+# -----------------------------
+# Python (If Used)
+# -----------------------------
+__pycache__/
+*.pyc
+
+# -----------------------------
+# Environment / Config Files
+# -----------------------------
+.env
+.env.*
+config.json
+settings.json
+
+# -----------------------------
+# Credentials & Secrets
+# -----------------------------
+*credential*
+*password*
+*secret*
+*token*
